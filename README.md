@@ -1,4 +1,6 @@
-# Key Concepts Covered
+# PYTHON FOR DIETITIANS
+---
+## Key Concepts Covered
 This chapter has introduced dietitians to fundamental Python programming concepts through practical, nutrition-focused examples. We covered:
 1.	Basic Syntax and Structure: Python's indentation-based syntax and proper code organization
 2.	Variables and Data Types: Using integers, floats, strings, and booleans for nutritional data
